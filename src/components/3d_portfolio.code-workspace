@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"name": "3d_portfolio",
+		"path": "../3d_portfolio"
+	},
+	{
+		"name": "public",
+		"path": "../public"
+	},
+	{
+		"path": "../assets"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {}
+}
