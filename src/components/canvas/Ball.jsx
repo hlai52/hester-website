@@ -19,7 +19,21 @@ const Ball = (props) => {
       <directionalLight position={[0, 0, 0.05]} />
       <mesh castShadow receiveShadow scale={2.75}>
         <icosahedronGeometry args={[1, 1]} />
-        <meshStandardMaterial />
+        <meshStandardMaterial
+          color="#fff8eb"
+          polygonOffset
+          polygonOffsetFactor={-5}
+          flatShading
+        />
+        <Decal
+          flatShading
+          position={[0, 0, 1]}
+          map={decal}
+          //rotation={[0, Math.PI, 0]}
+
+          rotation={[2 * Math.PI, 0, 6.25]}
+        />
+        {/* Postion use to be 0, 0 , 1 */}
       </mesh>
     </Float>
   );
@@ -28,9 +42,10 @@ const Ball = (props) => {
 const BallCanvas = ({ icon }) => {
   return (
     <Canvas
-      frameloop="demand"
+      frameloop="always"
+      //use to be frameloop="demand"
       shadows
-      camera={{ position: [20, 3, 5], fov: 25 }}
+      camera={{ position: [5, 0, 20], fov: 25 }}
       gl={{ preserveDrawingBuffer: true }}
     >
       <Suspense fallback={<CanvasLoader />}>
