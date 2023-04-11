@@ -44,6 +44,9 @@ const ProjectCard = ({
             </div>
           </div>
         </div>
+        <div>
+          <h3>{name}</h3>
+        </div>
       </Tilt>
     </motion.div>
   );
