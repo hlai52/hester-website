@@ -13,7 +13,11 @@ const Feedbacks = () => {
     >
       <div
         className={`${styles.padding} bg-tertiary rounded-2xl min-h-[300px]`}
-      ></div>
+      >
+        <motion.div variants={textVariant()}>
+          <p>What Others Say</p>
+        </motion.div>
+      </div>
     </div>
   );
 };
