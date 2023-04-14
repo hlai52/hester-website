@@ -182,6 +182,13 @@ const testimonials = [
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
+    testimonial: "Hester is the best web developer in the world. ",
+    name: "Art K",
+    designation: "VVVV-V-VIP",
+    company: "Humanity",
+    image: "https://randomuser.me/api/portraits/men/1.jpg",
+  },
+  {
     testimonial:
       "After Hester optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Lilo",
