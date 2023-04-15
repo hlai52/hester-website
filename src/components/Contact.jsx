@@ -4,8 +4,16 @@ import { motion } from "framer-motion";
 
 import { styles } from "../styles";
 import { EarthCanvas } from "./canvas";
+import { SectionWrapper } from "../hoc/SectionWrapper";
+import { slideIn } from "../utils/motion";
 
 const Contact = () => {
+  const [form, setForm] = useState({
+    name: "",
+    email: "",
+    message: "",
+  });
+
   return <div>Contact</div>;
 };
 
