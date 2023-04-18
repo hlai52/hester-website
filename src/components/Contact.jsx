@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 import { styles } from "../styles";
 import { EarthCanvas } from "./canvas";
-import { SectionWrapper } from "../hoc/SectionWrapper";
+import SectionWrapper from "../hoc/SectionWrapper";
 import { slideIn } from "../utils/motion";
 
 const Contact = () => {
@@ -14,6 +14,10 @@ const Contact = () => {
     message: "",
   });
 
+  const [loading, setLoading] = useState(false);
+
+  const handleChange = (e) => {};
+  const handleSubmit = (e) => {};
   return <div>Contact</div>;
 };
 
