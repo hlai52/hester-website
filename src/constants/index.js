@@ -124,16 +124,16 @@ const experiences = [
     points: ["Blah bLah", "Blah blah blah blah ."],
   },
   {
-    title: "blah blah",
-    company_name: "Blah",
+    title: "Q&A Tester",
+    company_name: "Jayson Digital MCC",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "March 2022 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Conducted testing on software, applications, or products to identify defects and ensure they meet the required standards.",
+      "Collaborated with developers and other stakeholders to ensure issues are identified and resolved quickly.",
+      "Provided feedback to product owners and developers on usability, functionality, and performance.",
+      "blah",
     ],
   },
   {
