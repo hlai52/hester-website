@@ -44,11 +44,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled software developer... with experience in Javascript and
-        frameworks such as React, Node.js. Let's work together to bring your
-        ideas to life and make them a reality! blah blah blah blah blah blah
-        blah blah blah blah blah blah blah blah blah blah blah blah blah blah
-        blah blah blah blah blah blah blah
+        I'm a software developer with experience in Javascript and frameworks
+        such as React and Node.js. Let's work together to bring your ideas to
+        life and make them a reality.
+        <br></br> Always interested in new opportunities to create, learn &
+        grow, as a developer and as a person.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
