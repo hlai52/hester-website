@@ -23,6 +23,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  // sass,
 } from "../assets";
 
 export const navLinks = [
@@ -72,10 +73,10 @@ const technologies = [
     name: "JavaScript",
     icon: javascript,
   },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
+  // {
+  //   name: "Sass",
+  //   icon: sass,
+  // },
   {
     name: "React JS",
     icon: reactjs,
@@ -108,10 +109,10 @@ const technologies = [
     name: "figma",
     icon: figma,
   },
-  {
-    name: "docker",
-    icon: docker,
-  },
+  // {
+  //   name: "docker",
+  //   icon: docker,
+  // },
 ];
 
 const experiences = [
@@ -130,10 +131,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "March 2022 - Present",
     points: [
-      "Conducted testing on software, applications, or products to identify defects and ensure they meet the required standards.",
-      "Collaborated with developers and other stakeholders to ensure issues are identified and resolved quickly.",
-      "Provided feedback to product owners and developers on usability, functionality, and performance.",
-      "blah",
+      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
   {

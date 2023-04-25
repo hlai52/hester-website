@@ -46,9 +46,10 @@ const About = () => {
       >
         I'm a software developer with experience in Javascript and frameworks
         such as React and Node.js. Let's work together to bring your ideas to
-        life and make them a reality.
-        <br></br> Always interested in new opportunities to create, learn &
-        grow, as a developer and as a person.
+        life and make them a reality. A mindset of openness and curiosity,
+        actively engaged in navigating the journey of life.
+        <br></br>A fun fact about me : Often found hiking, travelling, tinkering
+        with crafts, or reading a book.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
