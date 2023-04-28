@@ -23,7 +23,24 @@ const Contact = () => {
     setForm({ ...form, [name]: value });
   };
 
-  const handleSubmit = (e) => {};
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    setLoading(true);
+
+    emailjs.send(
+      " service_3wnkshi",
+      "template_hsf6qak",
+
+      {
+        from_name: form.name,
+        to_name: "Hester",
+        from_email: form.email,
+        to_email: "hester.hl52@gmail.com",
+        message: form.message,
+      },
+      "   bGPGF5EbPecaM51jw"
+    );
+  };
 
   return (
     <div className="xl:mt-12 xl:flex-row flex-col-reverse flex gap-10 overflow-hidden">
