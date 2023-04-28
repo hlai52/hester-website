@@ -129,7 +129,7 @@ const experiences = [
     company_name: "Jayson Digital MCC",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "March 2022 - Present",
+    date: "March 2023 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -169,7 +169,7 @@ const testimonials = [
   {
     testimonial:
       "I thought it was impossible to make a website as beautiful as our product, but Hester proved me wrong.",
-    name: "BlahBlah",
+    name: "B",
     designation: "CFO",
     company: "Acme Co",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
@@ -184,7 +184,7 @@ const testimonials = [
   },
   {
     testimonial: "Hester is the best web developer in the world. ",
-    name: "Art K",
+    name: "A",
     designation: "VVVV-V-VIP",
     company: "Humanity",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
