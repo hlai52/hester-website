@@ -27,19 +27,40 @@ const Contact = () => {
     e.preventDefault();
     setLoading(true);
 
-    emailjs.send(
-      " service_3wnkshi",
-      "template_hsf6qak",
+    emailjs
+      .send(
+        " service_3wnkshi",
+        "template_hsf6qak",
 
-      {
-        from_name: form.name,
-        to_name: "Hester",
-        from_email: form.email,
-        to_email: "hester.hl52@gmail.com",
-        message: form.message,
-      },
-      "   bGPGF5EbPecaM51jw"
-    );
+        {
+          from_name: form.name,
+          to_name: "Hester",
+          from_email: form.email,
+          to_email: "hester.hl52@gmail.com",
+          message: form.message,
+        },
+        "bGPGF5EbPecaM51jw"
+      )
+
+      .then(
+        () => {
+          setLoading(false);
+          alert("Thank you for your message. I will get back to you soon.");
+
+          setForm({
+            name: "",
+            email: "",
+            message: "",
+          });
+        },
+        (error) => {
+          setLoading(false);
+
+          console.log(error);
+
+          alert("Something went wrong.");
+        }
+      );
   };
 
   return (
