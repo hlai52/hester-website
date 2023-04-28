@@ -15,6 +15,8 @@ const Contact = () => {
   });
 
   const [loading, setLoading] = useState(false);
+  const [isSent, setIsSent] = useState(false);
+
   const formRef = useRef(null);
 
   const handleChange = (e) => {
@@ -23,13 +25,26 @@ const Contact = () => {
     setForm({ ...form, [name]: value });
   };
 
+  const isFormValid = () => {
+    const { name, email, message } = form;
+    if (!name || !email || !message) {
+      alert("Please fill in all fields");
+      return false;
+    }
+  };
+
   const handleSubmit = (e) => {
     e.preventDefault();
+
+    if (!isFormValid()) {
+      return;
+    }
+
     setLoading(true);
 
     emailjs
       .send(
-        " service_3wnkshi",
+        "service_3wnkshi",
         "template_hsf6qak",
 
         {
@@ -45,6 +60,8 @@ const Contact = () => {
       .then(
         () => {
           setLoading(false);
+          setIsSent(true);
+
           alert("Thank you for your message. I will get back to you soon.");
 
           setForm({
@@ -55,10 +72,8 @@ const Contact = () => {
         },
         (error) => {
           setLoading(false);
-
           console.log(error);
-
-          alert("Something went wrong.");
+          alert(`Oops... ${error?.text}`);
         }
       );
   };
