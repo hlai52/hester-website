@@ -17,8 +17,14 @@ const Contact = () => {
   const [loading, setLoading] = useState(false);
   const formRef = useRef(null);
 
-  const handleChange = (e) => {};
+  const handleChange = (e) => {
+    const { name, value } = e.target;
+
+    setForm({ ...form, [name]: value });
+  };
+
   const handleSubmit = (e) => {};
+
   return (
     <div className="xl:mt-12 xl:flex-row flex-col-reverse flex gap-10 overflow-hidden">
       <motion.div
