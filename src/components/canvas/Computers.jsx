@@ -68,4 +68,3 @@ const ComputerCanvas = () => {
   );
 };
 export default ComputerCanvas;
-// changed the export from Computers to ComputerCanvas

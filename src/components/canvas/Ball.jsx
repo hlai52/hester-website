@@ -1,5 +1,6 @@
 import React, { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
+// import { technologies } from "../index";
 
 import {
   Decal,
@@ -41,21 +42,47 @@ const Ball = (props) => {
 
 const BallCanvas = ({ icon }) => {
   return (
-    <Canvas
-      frameloop="always"
-      //use to be frameloop="demand"
-      shadows
-      camera={{ position: [5, 0, 20], fov: 25 }}
-      gl={{ preserveDrawingBuffer: true }}
-    >
-      <Suspense fallback={<CanvasLoader />}>
-        <OrbitControls enableZoom={false} />
-        <Ball imgUrl={icon} />
-      </Suspense>
+    <>
+      <Canvas
+        frameloop="always"
+        shadows
+        camera={{ position: [5, 0, 20], fov: 25 }}
+        gl={{ preserveDrawingBuffer: true }}
+      >
+        <Suspense fallback={<CanvasLoader />}>
+          <OrbitControls enableZoom={false} />
 
-      <Preload all />
-    </Canvas>
+          <Ball imgUrl={icon} />
+        </Suspense>
+
+        <Preload all />
+      </Canvas>
+      <p>text</p>
+    </>
   );
 };
 
+function name() {
+  return (
+    <div>
+      <p>String: {technologies.name}</p>
+    </div>
+  );
+}
+
 export default BallCanvas;
+
+//text={`{technologies.name}`} did not work
+// render();
+
+// {
+//   const { technologies } = this.state;
+
+//   return (
+//     <div>
+//       {technologies.map((technologies) => (
+//         <p key={technologies.name}> {technologies.title}</p>
+//       ))}
+//     </div>
+//   );
+// }

@@ -115,6 +115,15 @@ const technologies = [
   // },
 ];
 
+// console.log(technologies.`${name}`);
+
+// const technologiesList = technologies
+//   .map((technology) => `<li>${technology.name}</li>`)
+//   .join("");
+
+// const technologiesElement = document.getElementById("technologies");
+// technologiesElement.innerHTML = `<ul>${technologiesList}</ul>`;
+
 const experiences = [
   {
     title: "Graduate",

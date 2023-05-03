@@ -24,8 +24,11 @@ const Navbar = () => {
         >
           <img src={logo} alt-="logo" className="w-9 h-9 object-contain" />
           <p className="text-white text-[18px] font-bold cursor-pointer flex">
-            Hester Lai &nbsp;
-            <span className="sm:block hidden"> | Coding Profile</span>
+            Hester &nbsp;
+            <span className="sm:block hidden">
+              {" "}
+              | &nbsp; Vancouver, Canada 📍
+            </span>
           </p>
         </Link>
         <ul className="list-none hidden sm:flex flex-row flex: 1 gap-10">
