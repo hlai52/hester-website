@@ -45,7 +45,7 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
         <div className="about__container">
-          <img className="profile-pic" src="../src/assets/HL.png"></img>
+          <img className="profile-pic" src="./../src/assets/HL.png"></img>
           I'm a software developer with experience in Javascript and frameworks
           such as React and Node.js. Let's work together to bring your ideas to
           life and make them a reality.
