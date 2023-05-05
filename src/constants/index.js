@@ -143,7 +143,7 @@ const experiences = [
   {
     title: "Q&A Tester",
     company_name: "Jayson Digital MCC",
-    icon: tesla,
+    icon: jayson,
     iconBg: "#E6DEDD",
     date: "March 2023 - Present",
     points: [
@@ -154,15 +154,12 @@ const experiences = [
     ],
   },
   {
-    title: "Web Developer",
+    title: "--",
     company_name: "IdeaPulse",
-    icon: shopify,
+    icon: ideapulse,
     iconBg: "#383E56",
     date: "April 2019- August 2022",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      ,
-    ],
+    points: ["blahblah ", ,],
   },
   {
     title: "Co-Founder",

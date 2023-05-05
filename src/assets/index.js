@@ -30,6 +30,7 @@ import tesla from "./company/tesla.png";
 import jayson from "../assets/jayson.png";
 import ideapulse from "../assets/ideapulse.png";
 import tmu from "../assets/tmu.png";
+import ira from "../assets/ireadaloud.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
