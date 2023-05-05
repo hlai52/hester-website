@@ -1,5 +1,5 @@
 import logo from "./logo.svg";
-
+import Hlogo from "../assets/Hlogo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -33,6 +33,7 @@ import tripguide from "./tripguide.png";
 // import HL from "./HL.png";
 
 export {
+  Hlogo,
   logo,
   backend,
   creator,
