@@ -1,5 +1,5 @@
 import logo from "./logo.svg";
-import Hlogo from "../assets/Hlogo.png";
+
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -35,7 +35,9 @@ import ira from "../assets/ireadaloud.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+
 import HL from "../assets/HL.png";
+import Hlogo from "../assets/Hlogo.png";
 
 export {
   Hlogo,
