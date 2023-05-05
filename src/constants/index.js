@@ -27,6 +27,7 @@ import {
   jayson,
   tmu,
   ideapulse,
+  ira,
   // sass,
 } from "../assets";
 
@@ -164,7 +165,7 @@ const experiences = [
   {
     title: "Co-Founder",
     company_name: "iReadAloud",
-    icon: meta,
+    icon: ira,
     iconBg: "#E6DEDD",
     date: "2015",
     points: [
@@ -175,7 +176,7 @@ const experiences = [
   {
     title: "Bachelor of Commerce",
     company_name: "Toronto Metropolitan University/Ryerson University ",
-    icon: meta,
+    icon: tmu,
     iconBg: "#E6DEDD",
     date: "School",
     points: [

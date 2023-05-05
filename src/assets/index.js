@@ -72,4 +72,5 @@ export {
   jayson,
   tmu,
   ideapulse,
+  ira,
 };
