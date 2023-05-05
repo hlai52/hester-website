@@ -30,7 +30,7 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-// import HL from "./HL.png";
+import HL from "../assets/HL.png";
 
 export {
   Hlogo,
@@ -62,5 +62,5 @@ export {
   carrent,
   jobit,
   tripguide,
-  // HL,
+  HL,
 };

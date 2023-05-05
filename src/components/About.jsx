@@ -7,6 +7,7 @@ import { fadeIn, textVariant } from "../utils/motion";
 import SectionWrapper from "../hoc/SectionWrapper";
 import "./about.css";
 
+import { HL } from "../assets";
 // import { HL } from "./index.js";
 // import { HL } from "../assets/HL.png";
 // import profilepic from "../assets/profilepic.png";
@@ -50,7 +51,8 @@ const About = () => {
       >
         <div className="about__container">
           <img
-            src="../src/assets/HL.png"
+            src={HL}
+            // "../src/assets/HL.png"
             // {HL}
             // "../src/assets/HL.png"
             // "https://github.com/hlai52/3d_developer_portfolio/blob/main/src/assets/HL.png"
