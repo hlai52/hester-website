@@ -131,17 +131,6 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Graduate",
-    company_name: "Brainstation",
-    icon: brainstation,
-    iconBg: "#383E56",
-    date: "Dec 2022",
-    points: [
-      "A 3-month intensive coding bootcamp to gain all required industry skills for a role in web development.",
-      "Technologies : Postman API · NPM · Agile Web Development · Front-End Development · HTML · Cascading Style Sheets (CSS) · HTML5 · Node.js · React.js · JavaScript · JSON · Express.js · Git · ",
-    ],
-  },
-  {
     title: "Q&A Tester",
     company_name: "Jayson Digital MCC",
     icon: jayson,
@@ -152,6 +141,17 @@ const experiences = [
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
+  {
+    title: "Graduate",
+    company_name: "Brainstation",
+    icon: brainstation,
+    iconBg: "#383E56",
+    date: "Dec 2022",
+    points: [
+      "A 3-month intensive coding bootcamp to gain all required industry skills for a role in web development.",
+      "Technologies : Postman API · NPM · Agile Web Development · Front-End Development · HTML · Cascading Style Sheets (CSS) · HTML5 · Node.js · React.js · JavaScript · JSON · Express.js · Git · ",
     ],
   },
   {
