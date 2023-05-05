@@ -114,6 +114,10 @@ const technologies = [
     name: "figma",
     icon: figma,
   },
+  {
+    name: "Sass",
+    icon: sass,
+  },
   // {
   //   name: "docker",
   //   icon: docker,
