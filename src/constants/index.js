@@ -23,6 +23,10 @@ import {
   jobit,
   tripguide,
   threejs,
+  brainstation,
+  jayson,
+  tmu,
+  ideapulse,
   // sass,
 } from "../assets";
 
@@ -128,7 +132,7 @@ const experiences = [
   {
     title: "Graduate",
     company_name: "Brainstation",
-    icon: starbucks,
+    icon: brainstation,
     iconBg: "#383E56",
     date: "Dec 2022",
     points: [
@@ -169,6 +173,16 @@ const experiences = [
     points: [
       "Developed an artificial intelligence mobile application to help the visually impaired read that landed as a finalist out of nine in the Ontario’s IDeA competition (Innovative for Design Accessibility)",
       " Secured funding of $13k from the Norman Esch Awards with a working prototype",
+    ],
+  },
+  {
+    title: "Bachelor of Commerce",
+    company_name: "Toronto Metropolitan University/Ryerson University ",
+    icon: meta,
+    iconBg: "#E6DEDD",
+    date: "School",
+    points: [
+      "Gradated with a Bachelor of Commerce from Ted Rogers School of Management.",
     ],
   },
 ];

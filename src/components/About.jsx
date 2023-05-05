@@ -8,9 +8,6 @@ import SectionWrapper from "../hoc/SectionWrapper";
 import "./about.css";
 
 import { HL } from "../assets";
-// import { HL } from "./index.js";
-// import { HL } from "../assets/HL.png";
-// import profilepic from "../assets/profilepic.png";
 
 const ServiceCard = ({ index, title, icon }) => {
   return (

@@ -25,7 +25,11 @@ import threejs from "./tech/threejs.svg";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
+import brainstation from "./company/brainstation.png";
 import tesla from "./company/tesla.png";
+import jayson from "../assets/jayson.png";
+import ideapulse from "../assets/ideapulse.png";
+import tmu from "../assets/tmu.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -63,4 +67,8 @@ export {
   jobit,
   tripguide,
   HL,
+  brainstation,
+  jayson,
+  tmu,
+  ideapulse,
 };
