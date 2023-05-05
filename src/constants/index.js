@@ -150,7 +150,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Dec 2022",
     points: [
-      "A 3-month intensive coding bootcamp to gain all required industry skills for a role in web development.",
+      "An intensive coding bootcamp to gain all required industry skills for a role in web development.",
       "Technologies : Postman API · NPM · Agile Web Development · Front-End Development · HTML · Cascading Style Sheets (CSS) · HTML5 · Node.js · React.js · JavaScript · JSON · Express.js · Git · ",
     ],
   },
