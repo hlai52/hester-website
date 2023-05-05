@@ -7,6 +7,10 @@ import { fadeIn, textVariant } from "../utils/motion";
 import SectionWrapper from "../hoc/SectionWrapper";
 import "./about.css";
 
+// import { HL } from "./index.js";
+// import { HL } from "../assets/HL.png";
+// import profilepic from "../assets/profilepic.png";
+
 const ServiceCard = ({ index, title, icon }) => {
   return (
     <Tilt className="xs:w-[250px] w-full">
@@ -45,7 +49,15 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
         <div className="about__container">
-          <img className="profile-pic" src="./../src/assets/HL.png"></img>
+          <img
+            src="../src/assets/HL.png"
+            // {HL}
+            // "../src/assets/HL.png"
+            // "https://github.com/hlai52/3d_developer_portfolio/blob/main/src/assets/HL.png"
+
+            className="profile-pic"
+            alt="profile picture of a girl"
+          ></img>
           I'm a software developer with experience in Javascript and frameworks
           such as React and Node.js. Let's work together to bring your ideas to
           life and make them a reality.

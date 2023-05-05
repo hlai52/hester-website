@@ -130,8 +130,11 @@ const experiences = [
     company_name: "Brainstation",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "Sept 2022 - Dec 2022",
-    points: ["Blah bLah", "Blah blah blah blah ."],
+    date: "Dec 2022",
+    points: [
+      "A 3-month intensive coding bootcamp to gain all required industry skills for a role in web development.",
+      "Technologies : Postman API · NPM · Agile Web Development · Front-End Development · HTML · Cascading Style Sheets (CSS) · HTML5 · Node.js · React.js · JavaScript · JSON · Express.js · Git · ",
+    ],
   },
   {
     title: "Q&A Tester",
@@ -148,28 +151,24 @@ const experiences = [
   },
   {
     title: "Web Developer",
-    company_name: "Blah blah",
+    company_name: "IdeaPulse",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "April 2019- August 2022",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      ,
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Blah blah",
+    title: "Co-Founder",
+    company_name: "iReadAloud",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "2015",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed an artificial intelligence mobile application to help the visually impaired read that landed as a finalist out of nine in the Ontario’s IDeA competition (Innovative for Design Accessibility)",
+      " Secured funding of $13k from the Norman Esch Awards with a working prototype",
     ],
   },
 ];
@@ -177,10 +176,10 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Hester proved me wrong.",
-    name: "B",
-    designation: "CFO",
-    company: "Acme Co",
+      "Hardworking, team player, problem solver are some of the few traits I could describe about Hester. Hester's dedication, commitment to doing her best and perseverance are truly admirable.Working with her in a team was such a delight since she always find a way through and was fun to work with. ",
+    name: "Alex Marquina",
+    designation: "",
+    company: "",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
@@ -197,14 +196,6 @@ const testimonials = [
     designation: "VVVV-V-VIP",
     company: "Humanity",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
-  },
-  {
-    testimonial:
-      "After Hester optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lilo",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
 
