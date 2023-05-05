@@ -28,7 +28,7 @@ import {
   tmu,
   ideapulse,
   ira,
-  // sass,
+  sass,
 } from "../assets";
 
 export const navLinks = [
@@ -78,10 +78,10 @@ const technologies = [
     name: "JavaScript",
     icon: javascript,
   },
-  // {
-  //   name: "Sass",
-  //   icon: sass,
-  // },
+  {
+    name: "Sass",
+    icon: sass,
+  },
   {
     name: "React JS",
     icon: reactjs,
