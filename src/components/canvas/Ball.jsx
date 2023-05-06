@@ -1,6 +1,6 @@
 import React, { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
-// import { technologies } from "../index";
+import { technologies } from "../../constants";
 
 import {
   Decal,
@@ -40,7 +40,7 @@ const Ball = (props) => {
   );
 };
 
-const BallCanvas = ({ icon }) => {
+const BallCanvas = ({ icon, name }) => {
   return (
     <>
       <Canvas
@@ -57,7 +57,6 @@ const BallCanvas = ({ icon }) => {
 
         <Preload all />
       </Canvas>
-      <p>text</p>
     </>
   );
 };
