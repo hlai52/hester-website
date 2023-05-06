@@ -88,10 +88,10 @@ const technologies = [
     name: "Github",
     icon: github,
   },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
-  },
+  // {
+  //   name: "Tailwind CSS",
+  //   icon: tailwind,
+  // },
   {
     name: "Node JS",
     icon: nodejs,
