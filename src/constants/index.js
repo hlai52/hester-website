@@ -29,6 +29,7 @@ import {
   ideapulse,
   ira,
   sass,
+  github,
 } from "../assets";
 
 export const navLinks = [
@@ -66,30 +67,27 @@ const services = [
 ];
 
 const technologies = [
-  // {
-  //   name: "HTML 5",
-  //   icon: html,
-  // },
-  // {
-  //   name: "CSS 3",
-  //   icon: css,
-  // },
-  // {
-  //   name: "JavaScript",
-  //   icon: javascript,
-  // },
-  // {
-  //   name: "Sass",
-  //   icon: sass,
-  // },
-  // {
-  //   name: "React JS",
-  //   icon: reactjs,
-  // },
-  // {
-  //   name: "Redux Toolkit",
-  //   icon: redux,
-  // },
+  {
+    name: "HTML 5",
+    icon: html,
+  },
+  {
+    name: "CSS 3",
+    icon: css,
+  },
+  {
+    name: "JavaScript",
+    icon: javascript,
+  },
+
+  {
+    name: "React JS",
+    icon: reactjs,
+  },
+  {
+    name: "Github",
+    icon: github,
+  },
   {
     name: "Tailwind CSS",
     icon: tailwind,
@@ -123,6 +121,8 @@ const technologies = [
   //   icon: docker,
   // },
 ];
+
+// React, Figma, Node,js, API, mySQL, n
 
 // console.log(technologies.`${name}`);
 
@@ -174,7 +174,6 @@ const experiences = [
     date: "2015",
     points: [
       "Developed an artificial intelligence mobile application to help the visually impaired read that landed as a finalist out of nine in the Ontario’s IDeA competition (Innovative for Design Accessibility)",
-      " Secured funding of $13k from the Norman Esch Awards with a working prototype",
     ],
   },
   {

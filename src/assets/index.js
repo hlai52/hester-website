@@ -4,7 +4,7 @@ import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
-import github from "./github.png";
+
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -22,6 +22,7 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import sass from "../assets/tech/sass.png";
+import github from "../assets/tech/github.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
