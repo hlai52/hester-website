@@ -1,0 +1,8 @@
+.tech {
+  display: flex;
+  flex-direction: column;
+}
+
+.tech-name {
+  align-self: center;
+}
