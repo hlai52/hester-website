@@ -38,6 +38,7 @@ import bandsite from "../assets/tech/bandsite.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import coffeeshop from "../assets/coffee_shop.png";
 
 import HL from "../assets/HL.png";
 import Hlogo from "../assets/Hlogo.png";
@@ -80,4 +81,5 @@ export {
   ira,
   sass,
   bandsite,
+  coffeeshop,
 };

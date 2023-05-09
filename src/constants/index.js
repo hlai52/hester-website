@@ -30,6 +30,7 @@ import {
   ira,
   sass,
   github,
+  bandsite,
 } from "../assets";
 
 export const navLinks = [
@@ -222,8 +223,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: bandsite,
+    source_code_link: "https://github.com/hlai52/hester-lai-bandsite",
   },
   {
     name: "Job IT",
