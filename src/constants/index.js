@@ -122,17 +122,6 @@ const technologies = [
   // },
 ];
 
-// React, Figma, Node,js, API, mySQL, n
-
-// console.log(technologies.`${name}`);
-
-// const technologiesList = technologies
-//   .map((technology) => `<li>${technology.name}</li>`)
-//   .join("");
-
-// const technologiesElement = document.getElementById("technologies");
-// technologiesElement.innerHTML = `<ul>${technologiesList}</ul>`;
-
 const experiences = [
   {
     title: "Q&A Tester",
@@ -216,20 +205,20 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Bandsite",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users to check the band's concerts and information and to leave a comment.",
     tags: [
       {
-        name: "react",
+        name: "Javascript",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "CSS",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "HTML",
         color: "pink-text-gradient",
       },
     ],
