@@ -32,6 +32,7 @@ import {
   github,
   bandsite,
   coffeeshop,
+  reset,
 } from "../assets";
 
 export const navLinks = [
@@ -228,7 +229,7 @@ const projects = [
     source_code_link: "https://github.com/hlai52/hester-lai-bandsite",
   },
   {
-    name: "Coffee shop",
+    name: "Coffee Shop",
     description:
       "Web application that lets users view the coffee store menu and peruse the online shop for items.",
     tags: [
@@ -245,24 +246,28 @@ const projects = [
     source_code_link: "https://github.com/hlai52/coffee-shop/tree/dev",
   },
   {
-    name: "Trip Guide",
+    name: "Reset",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "The to-do list function allows users to store tasks either locally or in a database and provides CRUD (create, read, update, delete) functionality. The work corner provides a designated space with a timer for users to accomplish their tasks, and displays the last completed task. Additionally, there is a customizable pomodoro timer and a music section to aid in focus and relaxation.",
     tags: [
       {
-        name: "nextjs",
+        name: "Javascript",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "CSS",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "HTML",
         color: "pink-text-gradient",
       },
+      {
+        name: "REACT",
+        color: "orange-text-gradient",
+      },
     ],
-    image: tripguide,
+    image: reset,
     source_code_link: "https://github.com/",
   },
 ];

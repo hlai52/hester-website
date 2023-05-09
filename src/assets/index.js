@@ -39,6 +39,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import coffeeshop from "../assets/coffee_shop.png";
+import reset from "../assets/reset.png";
 
 import HL from "../assets/HL.png";
 import Hlogo from "../assets/Hlogo.png";
@@ -82,4 +83,5 @@ export {
   sass,
   bandsite,
   coffeeshop,
+  reset,
 };
