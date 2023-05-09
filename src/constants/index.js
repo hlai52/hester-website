@@ -248,7 +248,7 @@ const projects = [
   {
     name: "Reset",
     description:
-      "The to-do list function allows users to store tasks either locally or in a database and provides CRUD (create, read, update, delete) functionality. The work corner provides a designated space with a timer for users to accomplish their tasks, and displays the last completed task. Additionally, there is a customizable pomodoro timer and a music section to aid in focus and relaxation.",
+      "The to-do list function allows users to store tasks and provides CRUD (create, read, update, delete) functionality. The work corner provides a designated space with a timer for users to accomplish their tasks, and displays the last completed task. Additionally, there is a customizable pomodoro timer and a music section to aid in focus and relaxation.",
     tags: [
       {
         name: "Javascript",
