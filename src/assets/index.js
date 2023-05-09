@@ -34,6 +34,7 @@ import ideapulse from "../assets/ideapulse.png";
 import tmu from "../assets/tmu.png";
 import ira from "../assets/ireadaloud.png";
 
+import bandsite from "../assets/tech/bandsite.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -78,4 +79,5 @@ export {
   ideapulse,
   ira,
   sass,
+  bandsite,
 };
