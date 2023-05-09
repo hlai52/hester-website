@@ -2,13 +2,18 @@ import { BallCanvas } from "./canvas";
 import SectionWrapper from "../hoc/SectionWrapper";
 import { technologies } from "../constants";
 import "./tech.css";
+import { styles } from "../styles";
 
 const Tech = () => {
   return (
     <div className="flex flex-row flex-wrap justify-center gap-10">
+      <p className={styles.sectionSubText}>Stack | Skills</p>
+      {/* <p>Stack & Skills </p> */}
+
       {technologies.map((technology) => (
         <div className="w-28 h-28 tech" key={technology.name}>
           <BallCanvas icon={technology.icon} />
+
           <p className="tech-name">{technology.name}</p>
         </div>
       ))}
