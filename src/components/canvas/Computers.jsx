@@ -49,7 +49,8 @@ const ComputerCanvas = () => {
 
   // Hide the component for mobile phones
   if (isMobile) {
-    return null;
+    return false;
+    //changed from null
   }
 
   return (
