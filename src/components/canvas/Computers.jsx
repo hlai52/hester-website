@@ -47,8 +47,9 @@ const ComputerCanvas = () => {
     };
   }, []);
 
+  // Hide the component for mobile phones
   if (isMobile) {
-    return null; // Don't render the component for mobile devices
+    return null;
   }
 
   return (
