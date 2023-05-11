@@ -4,8 +4,7 @@ import { motion } from "framer-motion";
 
 const Hero = () => {
   return (
-    <section className="relative w-full h-screen mx-auto sm:hidden ">
-      {/* //sm:hidden */}
+    <section className="relative w-full h-screen mx-auto sm:block hidden">
       <div
         className={`${styles.paddingX} absolute inset-0 top-[120px] max-w-7xl mx-auto flex flex-row items-start gap-5  `}
       >
