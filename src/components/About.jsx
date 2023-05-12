@@ -42,7 +42,7 @@ const About = () => {
         <p className={styles.sectionSubText} style={{ marginTop: "2rem" }}>
           Introduction{" "}
         </p>
-        <h2 className={styles.sectionHeadText}>Overview. </h2>
+        <h2 className={styles.sectionHeadText}>Hello there! </h2>
       </motion.div>
 
       <motion.p
@@ -60,9 +60,9 @@ const About = () => {
             className="profile-pic"
             alt="profile picture of a girl"
           ></img>
-          I'm a software developer with experience in Javascript and frameworks
-          such as React and Node.js. Let's work together to bring your ideas to
-          life and make them a reality.
+          I'm Hester - a software developer with experience in Javascript and
+          frameworks such as React and Node.js. Let's work together to bring
+          your ideas to life and make them a reality.
           <br></br>
           You'll find me outdoors wandering around the city, strolling through
           gardens & art galleries, skiing, hiking & flying my drone. On a rainy
