@@ -8,13 +8,13 @@ const Tech = () => {
   return (
     <div className="flex flex-row flex-wrap justify-center gap-10">
       <div>
-        <p className={`${styles.sectionSubText} stackheader`}>Stack | Skills</p>
+        <p className={`${styles.sectionSubText} `}>Stack | Skills</p>
       </div>
       {/* <p>Stack & Skills </p> */}
 
       {technologies.map((technology) => (
         <div className="w-28 h-28 tech " key={technology.name}>
-          <div className="ballcanvasmobile">
+          <div className="ballcanvasmobile tech">
             <BallCanvas icon={technology.icon} />
           </div>
           <p className="tech-name">{technology.name}</p>

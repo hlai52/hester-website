@@ -6,9 +6,12 @@
 .tech-name {
   align-self: center;
 }
+.stackheader {
+  display: flex;
+  align-self: center;
+}
 
 @media screen and (max-width: 600px) {
-  .stackheader,
   .ballcanvasmobile {
     visibility: hidden;
     clear: both;
