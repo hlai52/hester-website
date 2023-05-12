@@ -8,7 +8,8 @@
 }
 
 @media screen and (max-width: 600px) {
-  .stackheader {
+  .stackheader,
+  .ballcanvasmobile {
     visibility: hidden;
     clear: both;
     float: left;

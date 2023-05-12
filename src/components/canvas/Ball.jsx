@@ -70,18 +70,3 @@ function name() {
 }
 
 export default BallCanvas;
-
-//text={`{technologies.name}`} did not work
-// render();
-
-// {
-//   const { technologies } = this.state;
-
-//   return (
-//     <div>
-//       {technologies.map((technologies) => (
-//         <p key={technologies.name}> {technologies.title}</p>
-//       ))}
-//     </div>
-//   );
-// }
