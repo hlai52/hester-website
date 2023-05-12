@@ -168,20 +168,18 @@ const experiences = [
     company_name: "iReadAloud",
     icon: ira,
     iconBg: "#E6DEDD",
-    date: "2015",
+    date: "Toronto",
     points: [
       "Developed an artificial intelligence mobile application to help the visually impaired read that landed as a finalist out of nine in the Ontario’s IDeA competition (Innovative for Design Accessibility)",
     ],
   },
   {
     title: "Bachelor of Commerce",
-    company_name: "Toronto Metropolitan University/Ryerson University ",
+    company_name: "TMU(previously Ryerson University)",
     icon: tmu,
     iconBg: "#E6DEDD",
-    date: "School",
-    points: [
-      "Gradated with a Bachelor of Commerce from Ted Rogers School of Management.",
-    ],
+    date: "Toronto Metropolitan University",
+    points: [" Bachelor of Commerce from Ted Rogers School of Management."],
   },
 ];
 
