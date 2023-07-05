@@ -127,7 +127,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Q&A Tester",
+    title: "QA Tester",
     company_name: "Jayson Digital MCC",
     icon: jayson,
     iconBg: "#E6DEDD",
