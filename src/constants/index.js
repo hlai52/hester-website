@@ -134,7 +134,7 @@ const experiences = [
     date: "March 2023 - Present",
     points: [
       "Ensure design accuracy, verify component behavior, viewport responsiveness and browser compatibility",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Create detailed bug reports, providing comprehensive explanations, relevant screenshots or recordings, to ensure thoroughness and accuracy in documenting findings",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
