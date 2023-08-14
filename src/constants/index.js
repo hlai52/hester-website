@@ -135,8 +135,8 @@ const experiences = [
     points: [
       "Ensure design accuracy, verify component behavior, viewport responsiveness and browser compatibility",
       "Create detailed bug reports, providing comprehensive explanations, relevant screenshots or recordings, to ensure thoroughness and accuracy in documenting findings",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Implementing responsive design and ensuring cross-browser compatibility",
+      "Participating in code reviews and providing constructive feedback to other developers",
     ],
   },
   {
@@ -147,7 +147,7 @@ const experiences = [
     date: "Dec 2022",
     points: [
       "An intensive coding bootcamp to gain all required industry skills for a role in web development.",
-      "Technologies : Postman API · NPM · Agile Web Development · Front-End Development · HTML · Cascading Style Sheets (CSS) · HTML5 · Node.js · React.js · JavaScript · JSON · Express.js · Git · ",
+      "Technologies : Postman API · NPM · Agile Web Development · Front-End Development · HTML · Cascading Style Sheets (CSS) · HTML5 · Node.js · React.js · JavaScript · JSON · Express.js · Git  ",
     ],
   },
   {
@@ -157,9 +157,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "April 2019- August 2022",
     points: [
-      "Managed end-to-end project lifecycle with a focus on risk mitigation and transparent communication, driving successful marketing campaigns.",
-      "Coordinated project deliverables, timelines, and meetings between executives, clients, and contractors to ensure comprehensive marketing solutions.",
-      "Developed and executed comprehensive marketing strategies to drive brand awareness, customer engagement, and sales growth for clients across diverse industries.",
+      "Managed end-to-end project lifecycle with a focus on risk mitigation and transparent communication, driving successful marketing campaigns",
+      "Coordinated project deliverables, timelines, and meetings between executives, clients, and contractors to ensure comprehensive marketing solutions",
+      "Developed and executed comprehensive marketing strategies to drive brand awareness, customer engagement, and sales growth for clients across diverse industries",
     ],
   },
 
