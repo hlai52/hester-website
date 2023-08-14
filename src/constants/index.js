@@ -135,8 +135,7 @@ const experiences = [
     points: [
       "Ensure design accuracy, verify component behavior, viewport responsiveness and browser compatibility",
       "Create detailed bug reports, providing comprehensive explanations, relevant screenshots or recordings, to ensure thoroughness and accuracy in documenting findings",
-      "Implementing responsive design and ensuring cross-browser compatibility",
-      "Participating in code reviews and providing constructive feedback to other developers",
+      "Contribute to website quality enhancement through constructive feedback and recommendations",
     ],
   },
   {
