@@ -67,11 +67,6 @@ const About = () => {
           You'll find me outdoors wandering around the city, strolling through
           gardens, skiing, hiking & flying my drone. On a rainy day, tinkering
           away with DIY projects and playing puzzle games.
-          <br>
-            I'm always interested in exploring different opportunites and having
-            new conversations. I'd love to hear about your favourite Vancouver
-            hike or your favourite travel destination. Chat with me below!
-          </br>
         </div>
       </motion.p>
 
