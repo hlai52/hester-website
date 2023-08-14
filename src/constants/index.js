@@ -157,8 +157,7 @@ const experiences = [
     date: "April 2019- August 2022",
     points: [
       "Managed end-to-end project lifecycle with a focus on risk mitigation and transparent communication, driving successful marketing campaigns",
-      "Coordinated project deliverables, timelines, and meetings between executives, clients, and contractors to ensure comprehensive marketing solutions",
-      "Developed and executed comprehensive marketing strategies to drive brand awareness, customer engagement, and sales growth for clients across diverse industries",
+      "Coordinated project deliverables, timelines, and meetings between executives, clients, and contractors",
     ],
   },
 
