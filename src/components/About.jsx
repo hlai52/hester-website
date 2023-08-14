@@ -65,8 +65,8 @@ const About = () => {
           work together to bring your ideas to life and make them a reality.
           <br></br>
           You'll find me outdoors wandering around the city, strolling through
-          gardens & art galleries, skiing, hiking & flying my drone. On a rainy
-          day, tinkering away with DIY projects and playing puzzle games.
+          gardens, skiing, hiking & flying my drone. On a rainy day, tinkering
+          away with DIY projects and playing puzzle games.
           <br>
             I'm always interested in exploring different opportunites and having
             new conversations. I'd love to hear about your favourite Vancouver
