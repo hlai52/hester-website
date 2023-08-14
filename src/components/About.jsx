@@ -70,7 +70,7 @@ const About = () => {
           <br></br>
           I'm always interested in exploring different opportunites and having
           new conversations. I'd love to hear about your favourite Vancouver
-          hike or your favourite travel destination. Chat with me below!
+          hike or your favourite travel destination.
         </div>
       </motion.p>
 
