@@ -156,8 +156,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "August 2020- November 2022",
     points: [
-      "Managed end-to-end project lifecycle with a focus on risk mitigation and transparent communication, driving successful marketing campaigns",
-      "Coordinated project deliverables, timelines, and meetings between executives, clients, and contractors",
+      "Managed end-to-end project lifecycle with a focus on risk mitigation and transparent communication, driving successful campaigns",
+      "Collaborated with teams to analyze business needs and processes, identifying areas for process enhancement and strategic decision-making",
+      "Oversaw project deliverables by devising action plans, facilitating meetings among  executives, clients, and contractors, and ensuring comprehensive fulfillment of  all requirements",
+      "Regularly presented data-driven reports to stakeholders to support strategic planning and decision-making",
     ],
   },
 
