@@ -179,7 +179,7 @@ const experiences = [
     icon: tmu,
     iconBg: "#E6DEDD",
     date: "Toronto Metropolitan University",
-    points: [" Bachelor of Commerce from Ted Rogers School of Management."],
+    points: [" Bachelor of Commerce from Ted Rogers School of Management"],
   },
 ];
 
