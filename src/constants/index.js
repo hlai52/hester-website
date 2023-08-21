@@ -154,7 +154,7 @@ const experiences = [
     company_name: "IdeaPulse",
     icon: ideapulse,
     iconBg: "#383E56",
-    date: "August 2020- November 2022",
+    date: "April 2019- November 2022",
     points: [
       "Managed end-to-end project lifecycle with a focus on risk mitigation and transparent communication, driving successful campaigns",
       "Collaborated with teams to analyze business needs and processes, identifying areas for process enhancement and strategic decision-making",
