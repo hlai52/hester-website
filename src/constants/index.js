@@ -145,7 +145,8 @@ const experiences = [
     iconBg: "#383E56",
     date: "Dec 2022",
     points: [
-      "An intensive coding bootcamp to gain all required industry skills for a role in web development",
+      "Throughout this software engineer program, I was fully immersed in a dynamic and interactive environment, allowing me to learn a diverse array of cutting-edge technologies, programming languages, and collaborative teamwork scenarios.",
+
       "Technologies : Postman API · NPM · Agile Web Development · Front-End Development · HTML · Cascading Style Sheets (CSS) · HTML5 · Node.js · React.js · JavaScript · JSON · Express.js · Git  ",
     ],
   },
