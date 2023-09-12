@@ -252,7 +252,7 @@ const projects = [
   {
     name: "Reset",
     description:
-      "The to-do list function allows users to store tasks and provides CRUD (create, read, update, delete) functionality. The work corner provides a designated space with a timer for users to accomplish their tasks, and displays the last completed task. Additionally, there is a customizable pomodoro timer and a music section to aid in focus and relaxation.",
+      "This productivity work corner provides a designated space with a timer for users to accomplish their tasks, and displays the last completed task. Additionally, there is a customizable pomodoro timer and a music section to aid in focus and relaxation.",
     tags: [
       {
         name: "Javascript",
@@ -272,7 +272,7 @@ const projects = [
       },
     ],
     image: reset,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://hlai52.github.io/hester-productivity-app",
   },
 ];
 
