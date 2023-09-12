@@ -77,6 +77,10 @@ const Works = () => {
           Following project showcases my skills and examples. It reflects my
           ability to solve complex problems, learn and work with different
           technologies and manage projects effectively.
+          <div>
+            <p>Click the link below:</p>
+            <a href="https://google.com">Visit Example.com</a>
+          </div>
         </motion.p>
       </div>
 
