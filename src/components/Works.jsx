@@ -79,10 +79,8 @@ const Works = () => {
           technologies and manage projects effectively.
           <br></br>
           <div>
-            <p>
-              Click the link below for my
-              <a href="https://github.com/hlai52">Github Profile</a>
-            </p>
+            <p>Click the link below for my </p>
+            <a href="https://github.com/hlai52">Github Profile</a>
           </div>
         </motion.p>
       </div>
