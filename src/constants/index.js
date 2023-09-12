@@ -212,6 +212,32 @@ const testimonials = [
 
 const projects = [
   {
+    name: "Reset",
+    description:
+      "This productivity work corner provides a designated space with a timer for users to accomplish their tasks, and displays the last completed task. Additionally, there is a customizable pomodoro timer and a music section to aid in focus and relaxation.",
+    tags: [
+      {
+        name: "Javascript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "HTML",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "REACT",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: reset,
+    source_code_link: "https://hlai52.github.io/hester-productivity-app",
+  },
+
+  {
     name: "Bandsite",
     description:
       "Web-based platform that allows users to check the band's concerts and information and to leave a comment.",
@@ -248,31 +274,6 @@ const projects = [
     ],
     image: coffeeshop,
     source_code_link: "https://github.com/hlai52/coffee-shop/tree/dev",
-  },
-  {
-    name: "Reset",
-    description:
-      "This productivity work corner provides a designated space with a timer for users to accomplish their tasks, and displays the last completed task. Additionally, there is a customizable pomodoro timer and a music section to aid in focus and relaxation.",
-    tags: [
-      {
-        name: "Javascript",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "CSS",
-        color: "green-text-gradient",
-      },
-      {
-        name: "HTML",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "REACT",
-        color: "orange-text-gradient",
-      },
-    ],
-    image: reset,
-    source_code_link: "https://hlai52.github.io/hester-productivity-app",
   },
 ];
 
