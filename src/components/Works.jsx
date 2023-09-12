@@ -78,8 +78,8 @@ const Works = () => {
           ability to solve complex problems, learn and work with different
           technologies and manage projects effectively.
           <div>
-            <p>Click the link below:</p>
-            <a href="https://google.com">Visit Example.com</a>
+            <p>Click the link below</p>
+            <a href="https://github.com/hlai52">My Github Profile</a>
           </div>
         </motion.p>
       </div>
