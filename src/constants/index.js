@@ -155,7 +155,7 @@ const experiences = [
     company_name: "IdeaPulse",
     icon: ideapulse,
     iconBg: "#383E56",
-    date: "April 2019- November 2022",
+    date: "August 2020 - April 2022",
     points: [
       "Managed end-to-end project lifecycle with a focus on risk mitigation and transparent communication, driving successful campaigns",
       "Collaborated with teams to analyze business needs and processes, identifying areas for process enhancement and strategic decision-making",
@@ -196,7 +196,7 @@ const testimonials = [
   {
     testimonial:
       "I've never met a web developer who truly cares about their clients' success like Hester does.",
-    name: "Mindy Kaling",
+    name: "Mindy Ka",
     designation: "COO",
     company: "DEF Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
