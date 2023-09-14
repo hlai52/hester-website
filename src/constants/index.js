@@ -161,6 +161,7 @@ const experiences = [
       "Collaborated with teams to analyze business needs and processes, identifying areas for process enhancement and strategic decision-making",
       "Oversaw project deliverables by devising action plans, facilitating meetings among  executives, clients, and contractors, and ensuring comprehensive fulfillment of  all requirements",
       "Regularly presented data-driven reports to stakeholders to support strategic planning and decision-making",
+      "Contributed to the successful delivery of projects by aligning project outcomes with business specifications, resulting in over 95% satisfaction rate from stakeholders due to effective project planning, management, and execution",
     ],
   },
 
