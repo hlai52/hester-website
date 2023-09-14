@@ -139,7 +139,7 @@ const experiences = [
     ],
   },
   {
-    title: "Graduate",
+    title: "Software Engineer",
     company_name: "Brainstation",
     icon: brainstation,
     iconBg: "#383E56",
@@ -171,7 +171,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Toronto",
     points: [
-      "Developed an artificial intelligence mobile application to help the visually impaired read that landed as a finalist out of nine in the Ontario’s IDeA competition (Innovative for Design Accessibility)",
+      "Developed an optical character recognition application dedicated to assisting the visually impaired and landed as a finalist in the Innovative Designs for Accessibility competition ",
+      " Assumed responsibilities for specific features in our application, overseeing the full product lifecycle from planning, design to ongoing operation",
+      " Performed quality assurance testing on product features, analyzed feedback and user data, and created user stories to validate action plans and product enhancements",
+      "Successfully won $13K from the Norman Esch Awards, validating the impact and potential of our innovative working prototype",
     ],
   },
   {
