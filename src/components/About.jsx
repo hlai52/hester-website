@@ -42,7 +42,7 @@ const About = () => {
         <p className={styles.sectionSubText} style={{ marginTop: "2rem" }}>
           Introduction{" "}
         </p>
-        <h2 className={styles.sectionHeadText}>Hello there! </h2>
+        <h2 className={styles.sectionHeadText}>Hello Translink team ! </h2>
       </motion.div>
 
       <motion.p
