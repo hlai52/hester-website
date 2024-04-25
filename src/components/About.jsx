@@ -60,7 +60,7 @@ const About = () => {
             className="profile-pic"
             alt="profile picture of a girl"
           ></img>
-          I'm Hester - a software engineer with experience in Javascript and
+          I'm Hester, a software engineer with experience in Javascript and
           frameworks such as React and Node.js but always learning more. Let's
           work together to bring your ideas to life and make them a reality.
           <br></br>
