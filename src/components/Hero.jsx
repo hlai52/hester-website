@@ -19,7 +19,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             A strategic thinker <br className="sm:block hidden" /> with
-            experience in business and technology, I develop strategies for
+            experience in business and technology. I develop strategies for
             complex challenges and create value at the intersection of both
             worlds.
           </p>
