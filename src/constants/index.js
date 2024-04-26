@@ -19,6 +19,7 @@ import {
   starbucks,
   tesla,
   shopify,
+  ESlogo,
   carrent,
   jobit,
   tripguide,
@@ -129,14 +130,10 @@ const experiences = [
   {
     title: "Analyst",
     company_name: "Elevated Signals",
-    icon: jayson,
+    icon: ESlogo,
     iconBg: "#E6DEDD",
     date: "October 2023 - Present",
-    points: [
-      "Ensure design accuracy, verify component behavior, viewport responsiveness and browser compatibility",
-      "Create detailed bug reports, providing comprehensive explanations, relevant screenshots or recordings, to ensure thoroughness and accuracy in documenting findings",
-      "Contribute to website quality enhancement through constructive feedback and recommendations",
-    ],
+    points: [""],
   },
 
   {
