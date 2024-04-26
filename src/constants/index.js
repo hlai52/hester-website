@@ -127,6 +127,14 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Analyst",
+    company_name: "Elevated Signals",
+    icon: jayson,
+    iconBg: "#E6DEDD",
+    date: "October 2022 - Present",
+    points: ["- Currently working there"],
+  },
+  {
     title: "QA Tester",
     company_name: "JDigital MCC[Contract]",
     icon: jayson,
