@@ -85,4 +85,5 @@ export {
   bandsite,
   coffeeshop,
   reset,
+  eslogo,
 };
