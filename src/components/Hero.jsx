@@ -18,8 +18,8 @@ const Hero = () => {
             Hi, I'm <span className="text-[#915eff]"> Hester </span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Hello Translink team! <br className="sm:block hidden" /> Welcome and
-            good morning.
+            Hello Translink team! <br className="sm:block hidden" /> Welcome
+            Amrit Brar, Robyn Reekie & Bobak Zojaji.
           </p>
         </div>
       </div>
