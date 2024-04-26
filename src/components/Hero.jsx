@@ -19,7 +19,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             Hello Translink team! <br className="sm:block hidden" /> Welcome
-            Amrit Brar, Robyn Reekie & Bobak Zojaji.
+            Amrit, Robyn & Bobak.
           </p>
         </div>
       </div>
