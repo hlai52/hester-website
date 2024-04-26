@@ -40,6 +40,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import coffeeshop from "../assets/coffee_shop.png";
 import reset from "../assets/reset.png";
+import eslogo from "../assets/company/eslogo.png";
 
 import HL from "../assets/HL.png";
 import Hlogo from "../assets/Hlogo.png";
@@ -84,4 +85,5 @@ export {
   bandsite,
   coffeeshop,
   reset,
+  eslogo,
 };
