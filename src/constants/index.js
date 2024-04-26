@@ -127,11 +127,24 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Analyst",
+    company_name: "Elevated Signals",
+    icon: jayson,
+    iconBg: "#E6DEDD",
+    date: "October 2023 - Present",
+    points: [
+      "Ensure design accuracy, verify component behavior, viewport responsiveness and browser compatibility",
+      "Create detailed bug reports, providing comprehensive explanations, relevant screenshots or recordings, to ensure thoroughness and accuracy in documenting findings",
+      "Contribute to website quality enhancement through constructive feedback and recommendations",
+    ],
+  },
+
+  {
     title: "QA Tester",
     company_name: "JDigital MCC[Contract]",
     icon: jayson,
     iconBg: "#E6DEDD",
-    date: "March 2023 - Present",
+    date: "March 2023 - April 2023",
     points: [
       "Ensure design accuracy, verify component behavior, viewport responsiveness and browser compatibility",
       "Create detailed bug reports, providing comprehensive explanations, relevant screenshots or recordings, to ensure thoroughness and accuracy in documenting findings",
