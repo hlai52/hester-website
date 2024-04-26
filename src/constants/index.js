@@ -133,7 +133,7 @@ const experiences = [
     icon: ESlogo,
     iconBg: "#E6DEDD",
     date: "October 2023 - Current",
-    points: [""],
+    points: ["Testing"],
   },
 
   {
