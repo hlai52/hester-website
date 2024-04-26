@@ -19,7 +19,6 @@ import {
   starbucks,
   tesla,
   shopify,
-  ESlogo,
   carrent,
   jobit,
   tripguide,
@@ -127,15 +126,6 @@ const technologies = [
 ];
 
 const experiences = [
-  {
-    title: "Analyst",
-    company_name: "Elevated Signals",
-    icon: ESlogo,
-    iconBg: "#E6DEDD",
-    date: "October 2023 - Current",
-    points: ["Testing"],
-  },
-
   {
     title: "QA Tester",
     company_name: "JDigital MCC[Contract]",
