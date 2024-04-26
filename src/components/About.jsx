@@ -42,7 +42,10 @@ const About = () => {
         <p className={styles.sectionSubText} style={{ marginTop: "2rem" }}>
           Introduction{" "}
         </p>
-        <h2 className={styles.sectionHeadText}>Hello Translink team ! </h2>
+        <h2 className={styles.sectionHeadText}>
+          {" "}
+          An open mind actively navigating life.{" "}
+        </h2>
       </motion.div>
 
       <motion.p
@@ -60,17 +63,15 @@ const About = () => {
             className="profile-pic"
             alt="profile picture of a girl"
           ></img>
-          I'm Hester, a software engineer with experience in Javascript and
-          frameworks such as React and Node.js but always learning more. Let's
-          work together to bring your ideas to life and make them a reality.
           <br></br>
-          You'll find me outdoors wandering around the city, strolling through
-          gardens, skiing, hiking & flying my drone. On a rainy day, tinkering
-          away with DIY projects and playing puzzle games.
+          You'll find me wandering around the streets of Vancouver, discovering
+          and exploring new parts of the city. In nature, you will find me
+          hiking, flying my drone and reading a book. On a rainy day, tinkering
+          away with DIY projects, designing arts and crafts and solving the
+          latest puzzle of life.
           <br></br>
-          I'm always interested in exploring different opportunites and having
-          new conversations. I'd love to hear about your favourite Vancouver
-          hike or your favourite travel destination.
+          I'm always interested in exploring different opportunites, having new
+          conversations or hearing a good book recommendation.
         </div>
       </motion.p>
 
