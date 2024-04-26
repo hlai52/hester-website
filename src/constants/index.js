@@ -132,7 +132,7 @@ const experiences = [
     company_name: "Elevated Signals",
     icon: eslogo,
     iconBg: "#E6DEDD",
-    date: "October 2022 - Present",
+    date: "October 2023 - Present",
     points: ["Currently working there"],
   },
   {
