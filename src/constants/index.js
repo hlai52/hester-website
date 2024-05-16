@@ -132,8 +132,8 @@ const experiences = [
     company_name: "Elevated Signals",
     icon: eslogo,
     iconBg: "#E6DEDD",
-    date: "October 2023 - Present",
-    points: ["Currently working there"],
+    date: "October 2023 - 2024",
+    points: ["SAAS software for manufacturing execution system (MES)"],
   },
   {
     title: "QA Tester",
